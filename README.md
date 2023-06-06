@@ -1,8 +1,8 @@
 <div>
   <h2><i>CEP Address Finder:</i></h2>
   <p>
-    Film application: Home screen, Catalog, Information regarding the selected
-    film, API Consumption (TMDB) and Caching of information.
+    Address finder, which uses the zip code as a keyword, when inserted, it will
+    return relevant information about the address.
   </p>
 </div>
 
