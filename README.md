@@ -16,7 +16,7 @@
   <h3>Resources:</h3>
   <p>- Home Page.</p>
   <p>- Adress Finder.</p>
-  <p>- Address information</p>
+  <p>- Address information.</p>
   <p>- Consumption of External API (viacep).</p>
 </div>
 
