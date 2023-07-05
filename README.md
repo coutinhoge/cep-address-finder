@@ -1,5 +1,5 @@
 <div>
-  <h2><i>CEP Address Finder:</i></h2>
+  <h2><i>Address Finder:</i></h2>
   <p>
     Address finder, which uses the zip code as a keyword, when inserted, it will
     return relevant information about the address.
